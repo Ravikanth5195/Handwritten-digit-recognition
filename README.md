@@ -45,10 +45,6 @@ To run this project, you need to have Python installed along with the necessary 
     ```bash
     pip install tensorflow matplotlib
     ```
-### Notes:
-- **Customization**: Replace the placeholder links (like `yourusername`) with your actual GitHub username.
-- **Images**: If you have any visual results or screenshots, make sure to include them in the repository and reference them correctly in the `README.md`.
-- **License**: Ensure you include a `LICENSE` file in your repository if you intend to license your project.
 
 ## Usage
 Once the dependencies are installed, you can run the project by executing the following command:
