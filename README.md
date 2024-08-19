@@ -51,3 +51,10 @@ Once the dependencies are installed, you can run the project by executing the fo
 
 ```bash
 python mnist_cnn.py
+
+
+### Notes:
+- **Customization**: Replace the placeholder links (like `yourusername`) with your actual GitHub username.
+- **Images**: If you have any visual results or screenshots, make sure to include them in the repository and reference them correctly in the `README.md`.
+- **License**: Ensure you include a `LICENSE` file in your repository if you intend to license your project.
+
